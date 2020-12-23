@@ -65,3 +65,5 @@ What does the view look like:
 Is this UI usable in very large setups with a lot of entities?
 
 -----
+
+When creating engineering issues, add the version as a label and `bug` or `polish` labels depending on the issue type.
