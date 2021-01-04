@@ -7,6 +7,9 @@ about: Request UI/UX help for this project
 ## Summary of the problem
 This section should hold details about the problem we are trying to solve and what we have learned from our research. It should take into account the different contexts in which our users may use our product to solve their problems (for example first-time user vs. pro-user).
 
+**Telemetry**
+Include data we need to measure to verify the feature here. 
+
 ## User stories
 Take each of the user stories and describe this specific use case in more detail and the benefit that this feature will bring to the user.
 
