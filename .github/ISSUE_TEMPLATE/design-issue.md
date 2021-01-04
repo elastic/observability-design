@@ -8,6 +8,7 @@ about: Request UI/UX help for this project
 This section should hold details about the problem we are trying to solve and what we have learned from our research. It should take into account the different contexts in which our users may use our product to solve their problems (for example first-time user vs. pro-user).
 
 **Telemetry**
+
 Include data we need to measure to verify the feature here. 
 
 ## User stories
