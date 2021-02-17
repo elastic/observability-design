@@ -29,22 +29,20 @@ etc.
 
 **This section should be filled in collaboration and agreement with a designer.**
 
-## User journeys
-Take each of the examples and write down which steps a user needs to take to get to the solution.
-
-### Example user journey 1
-The user needs to navigate to the metrics UI, for example via the global navigation or the search.
-The user selects "Docker" in the filter dropdown to see all 10K containers.
-
-### Example user journey 2
-
 ## Deliverables
 What is the expected outcome of this issue?
 
-### Example deliverable 1
-Wireframes showing the first user journey
+### Research
+Add a link to your research here.
 
-### Example deliverable 2
-etc.
+### User journeys/flows
+For each of the user stories, write down the steps a user needs to take to get solve their problem.
 
-If in doubt, don’t hesitate to reach out to the `#observability-design` Slack channel.
+### User journey diagram
+Insert or link the diagram showing the user flow here. The diagram should show the navigation flow a user needs to take to solve their problem.
+
+### Low-fi wireframes
+Insert a link to your low-fi wireframes here.
+
+### (Optional) hi-fi mockups/prototypes
+Insert a link to your prototype or mockups here.
