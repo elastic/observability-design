@@ -4,6 +4,8 @@ label: audit
 about: Template for UI/UX audit of a project or feature
 ---
 
+Please make sure you add this to the GitHub board for the next release.
+
 # [Project/Feature name] audit
 
 Tested on: [branch/master...]
