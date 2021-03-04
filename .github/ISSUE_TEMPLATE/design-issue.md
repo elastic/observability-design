@@ -30,7 +30,7 @@ etc.
 **This section should be filled in collaboration and agreement with a designer.**
 
 ## Deliverables
-What is the expected outcome of this issue?
+What is the expected outcome of this issue? Delete any items that are not applicable.
 
 ### Research
 Add a link to your research here.
