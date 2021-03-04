@@ -44,5 +44,5 @@ Insert or link the diagram showing the user flow here. The diagram should show t
 ### Low-fi wireframes
 Insert a link to your low-fi wireframes here.
 
-### (Optional) hi-fi mockups/prototypes
+### Hi-fi mockups/prototypes
 Insert a link to your prototype or mockups here.
