@@ -11,14 +11,11 @@ Please make sure you add this to the GitHub board for the next release.
 Tested on: [branch/master...]
 
 ## 🐛 Bugs
+Report bugs directly in Kibana.
 
 ### [Bug 1]
 
-- [ ] [Description of bug]
-<details>
-<summary>View screens</summary>
-// screenshot goes here
-</details>
+- [ ] [Description of bug](Link to reported bug)
 
 ## 🌟 Enhancements
 
